@@ -1,0 +1,6 @@
+whisper
+transformers
+edge_tts
+pyaudio
+webrtcvad
+langchain langchain-ollama ollama
