@@ -24,8 +24,8 @@ The pipeline supports Voice Activity Detection (VAD), output restriction to a ma
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ai-voice-assistant.git
-   cd ai-voice-assistant
+   git clone https://github.com/rameeskv0/AI_voice_assistance_pipeline.git
+   cd AI_voice_assistance_pipeline
 
 2.  **Set Up a Virtual Environment**
    ```bash
