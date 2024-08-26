@@ -131,8 +131,6 @@ The script will:
 - ModuleNotFoundError: Ensure all dependencies are installed and correctly listed in requirements.txt.
 -  Audio Issues: Verify microphone setup and audio file path configurations.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 - Whisper: OpenAI Whisper
